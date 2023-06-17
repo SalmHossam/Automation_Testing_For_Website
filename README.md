@@ -1,5 +1,5 @@
 # Sw_Testing_Project
-Project for Automation Testing using robotFrameWork for website "https://www.imdb.com/"
+Project for Automation Testing using robotFrameWork for website IMDB "https://www.imdb.com/"
 
 Scenario 1: Verify user can search for a movie on the IMDb homepage
 ● Given that the user is on the IMDb homepage "https://www.imdb.com/"
